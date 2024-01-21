@@ -1,2 +1,4 @@
 # Leetcode
-Leetcode and GFG Solutions
+```
+All the leetcode questions solved till now
+```
